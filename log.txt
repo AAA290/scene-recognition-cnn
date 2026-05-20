@@ -1,0 +1,108 @@
+=== training log begin ===
+Using device: cuda
+Epoch [1/80] - Loss: 2.5501 - Val Acc: 17.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [2/80] - Loss: 2.3011 - Val Acc: 22.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [3/80] - Loss: 2.1123 - Val Acc: 31.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [4/80] - Loss: 2.0140 - Val Acc: 33.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [5/80] - Loss: 1.9676 - Val Acc: 36.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [6/80] - Loss: 1.9283 - Val Acc: 23.33%
+Epoch [7/80] - Loss: 1.8855 - Val Acc: 42.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [8/80] - Loss: 1.8433 - Val Acc: 38.67%
+Epoch [9/80] - Loss: 1.7726 - Val Acc: 44.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [10/80] - Loss: 1.7266 - Val Acc: 39.67%
+Epoch [11/80] - Loss: 1.7532 - Val Acc: 44.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [12/80] - Loss: 1.6695 - Val Acc: 50.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [13/80] - Loss: 1.6542 - Val Acc: 55.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [14/80] - Loss: 1.6546 - Val Acc: 47.33%
+Epoch [15/80] - Loss: 1.6075 - Val Acc: 42.67%
+Epoch [16/80] - Loss: 1.5602 - Val Acc: 38.67%
+Epoch [17/80] - Loss: 1.5574 - Val Acc: 55.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [18/80] - Loss: 1.4883 - Val Acc: 55.33%
+Epoch [19/80] - Loss: 1.5155 - Val Acc: 51.67%
+Epoch [20/80] - Loss: 1.4603 - Val Acc: 51.67%
+Epoch [21/80] - Loss: 1.4692 - Val Acc: 62.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [22/80] - Loss: 1.4445 - Val Acc: 60.67%
+Epoch [23/80] - Loss: 1.3854 - Val Acc: 59.33%
+Epoch [24/80] - Loss: 1.4148 - Val Acc: 55.67%
+Epoch [25/80] - Loss: 1.3790 - Val Acc: 52.33%
+Epoch [26/80] - Loss: 1.3984 - Val Acc: 61.00%
+Epoch [27/80] - Loss: 1.3271 - Val Acc: 61.00%
+Epoch [28/80] - Loss: 1.2680 - Val Acc: 65.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [29/80] - Loss: 1.3381 - Val Acc: 59.67%
+Epoch [30/80] - Loss: 1.3061 - Val Acc: 56.33%
+Epoch [31/80] - Loss: 1.2858 - Val Acc: 66.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [32/80] - Loss: 1.2698 - Val Acc: 61.67%
+Epoch [33/80] - Loss: 1.2483 - Val Acc: 56.67%
+Epoch [34/80] - Loss: 1.2682 - Val Acc: 66.33%
+Epoch [35/80] - Loss: 1.1835 - Val Acc: 69.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [36/80] - Loss: 1.2369 - Val Acc: 65.33%
+Epoch [37/80] - Loss: 1.1937 - Val Acc: 70.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [38/80] - Loss: 1.1257 - Val Acc: 66.67%
+Epoch [39/80] - Loss: 1.1360 - Val Acc: 67.33%
+Epoch [40/80] - Loss: 1.1116 - Val Acc: 72.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [41/80] - Loss: 1.0836 - Val Acc: 71.67%
+Epoch [42/80] - Loss: 1.1057 - Val Acc: 58.33%
+Epoch [43/80] - Loss: 1.1437 - Val Acc: 70.00%
+Epoch [44/80] - Loss: 1.1231 - Val Acc: 71.67%
+Epoch [45/80] - Loss: 1.1319 - Val Acc: 73.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [46/80] - Loss: 1.0711 - Val Acc: 75.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [47/80] - Loss: 1.0742 - Val Acc: 74.33%
+Epoch [48/80] - Loss: 1.0786 - Val Acc: 74.00%
+Epoch [49/80] - Loss: 1.0549 - Val Acc: 70.33%
+Epoch [50/80] - Loss: 1.0100 - Val Acc: 71.67%
+Epoch [51/80] - Loss: 1.0515 - Val Acc: 76.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [52/80] - Loss: 1.0278 - Val Acc: 73.33%
+Epoch [53/80] - Loss: 1.0168 - Val Acc: 73.67%
+Epoch [54/80] - Loss: 0.9792 - Val Acc: 76.00%
+Epoch [55/80] - Loss: 1.0029 - Val Acc: 72.00%
+Epoch [56/80] - Loss: 0.9928 - Val Acc: 76.33%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [57/80] - Loss: 0.9068 - Val Acc: 72.33%
+Epoch [58/80] - Loss: 0.9467 - Val Acc: 78.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [59/80] - Loss: 0.9264 - Val Acc: 77.00%
+Epoch [60/80] - Loss: 0.9482 - Val Acc: 78.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [61/80] - Loss: 0.9490 - Val Acc: 76.33%
+Epoch [62/80] - Loss: 0.9293 - Val Acc: 78.67%
+Epoch [63/80] - Loss: 0.8548 - Val Acc: 78.33%
+Epoch [64/80] - Loss: 0.9254 - Val Acc: 77.00%
+Epoch [65/80] - Loss: 0.8777 - Val Acc: 79.67%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [66/80] - Loss: 0.8468 - Val Acc: 77.33%
+Epoch [67/80] - Loss: 0.8846 - Val Acc: 78.00%
+Epoch [68/80] - Loss: 0.9246 - Val Acc: 79.33%
+Epoch [69/80] - Loss: 0.9227 - Val Acc: 81.00%
+--> Saved new best model to /kaggle/working/trained_cnn.pth
+Epoch [70/80] - Loss: 0.8742 - Val Acc: 78.00%
+Epoch [71/80] - Loss: 0.8969 - Val Acc: 80.67%
+Epoch [72/80] - Loss: 0.8399 - Val Acc: 78.67%
+Epoch [73/80] - Loss: 0.8729 - Val Acc: 79.00%
+Epoch [74/80] - Loss: 0.8642 - Val Acc: 79.67%
+Epoch [75/80] - Loss: 0.8862 - Val Acc: 77.33%
+Epoch [76/80] - Loss: 0.8632 - Val Acc: 79.33%
+Epoch [77/80] - Loss: 0.8659 - Val Acc: 79.00%
+Epoch [78/80] - Loss: 0.8840 - Val Acc: 78.67%
+Epoch [79/80] - Loss: 0.8955 - Val Acc: 79.33%
+Epoch [80/80] - Loss: 0.8746 - Val Acc: 78.67%
+Training completed. Best Validation Accuracy: 81.00%
